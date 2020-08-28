@@ -1,0 +1,12 @@
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\bin\Debug\prjAnimatedGame.exe.config
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\bin\Debug\prjAnimatedGame.exe
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\bin\Debug\prjAnimatedGame.pdb
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\bin\Debug\prjAnimatedGame.xml
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\obj\Debug\prjAnimatedGame.frmAnimatedGame.resources
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\obj\Debug\prjAnimatedGame.Resources.resources
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\obj\Debug\prjAnimatedGame.vbproj.GenerateResource.cache
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\obj\Debug\prjAnimatedGame.exe
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\obj\Debug\prjAnimatedGame.xml
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\obj\Debug\prjAnimatedGame.pdb
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\obj\Debug\prjAnimatedGame.vbproj.CoreCompileInputs.cache
+D:\CP\HCP2\Projects\AnimatedGame\prjAnimatedGame\obj\Debug\prjAnimatedGame.vbprojResolveAssemblyReference.cache
