@@ -1,0 +1,12 @@
+D:\CP\HCP2\Projects\BookRec\prjBookRec\bin\Debug\prjBookRec.exe.config
+D:\CP\HCP2\Projects\BookRec\prjBookRec\bin\Debug\prjBookRec.exe
+D:\CP\HCP2\Projects\BookRec\prjBookRec\bin\Debug\prjBookRec.pdb
+D:\CP\HCP2\Projects\BookRec\prjBookRec\bin\Debug\prjBookRec.xml
+D:\CP\HCP2\Projects\BookRec\prjBookRec\obj\Debug\prjBookRec.vbprojAssemblyReference.cache
+D:\CP\HCP2\Projects\BookRec\prjBookRec\obj\Debug\prjBookRec.frmBookRec.resources
+D:\CP\HCP2\Projects\BookRec\prjBookRec\obj\Debug\prjBookRec.Resources.resources
+D:\CP\HCP2\Projects\BookRec\prjBookRec\obj\Debug\prjBookRec.vbproj.GenerateResource.cache
+D:\CP\HCP2\Projects\BookRec\prjBookRec\obj\Debug\prjBookRec.exe
+D:\CP\HCP2\Projects\BookRec\prjBookRec\obj\Debug\prjBookRec.xml
+D:\CP\HCP2\Projects\BookRec\prjBookRec\obj\Debug\prjBookRec.pdb
+D:\CP\HCP2\Projects\BookRec\prjBookRec\obj\Debug\prjBookRec.vbproj.CoreCompileInputs.cache
